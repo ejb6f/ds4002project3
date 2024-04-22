@@ -1,6 +1,6 @@
 # How to obtain the data
 
-Since the dataset is too large to upload, here are the instructions to obtain it:
+Since the dataset is too large to upload, here are the instructions on how to obtain it:
 
 1. Go to this link: https://susanqq.github.io/UTKFace/
 2. Scroll down to the "Datasets" section and click on "ZIP File (1.3GB)" below "In-the-wild Faces"
