@@ -13,8 +13,8 @@ For this project, Python through a Jupyter notebook was used, which was all code
 
 ### /DATA
 
-+ how-to-obtain-data.md
 + data_appendix.pdf
++ how-to-obtain-data.md
 
 ### /OUTPUT
 
