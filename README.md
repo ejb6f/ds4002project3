@@ -18,7 +18,17 @@ For this project, Python through a Jupyter notebook was used, which was all code
 
 ### /OUTPUT
 
-+ 
++ age_accuracy.png
++ faces_by_age_1000.png
++ faces_by_age_full.png
++ faces_by_gender_1000.png
++ faces_by_gender_full.png
++ faces_by_race_1000.png
++ faces_by_race_full.png
++ gender_accuracy.png
++ overall_accuracy.png
++ race_accuracy.png
++ sample_image.png
 
 ### /SCRIPTS
 
