@@ -45,5 +45,6 @@ To reproduce the results...
 ## Reference
 
 [1] Nada Hassanin, "Law professor explores racial bias implications in facial recognition technology", University of Calgary, Aug. 23, 2023. [Online]. Available: https://ucalgary.ca/news/law-professor-explores-racial-bias-implications-facial-recognition-technology#:~:text=In%20some%20facial%20recognition%20technology,is%20about%2035%20per%20cent.%E2%80%9D. [Accessed Apr. 4, 2024]. 
+
 [2] Y. Song, Z. Zhang, “UTKFace: Large Scale Face Dataset”, University of Tennessee, Knoxville, n.d. [Online]. Available: https://susanqq.github.io/UTKFace/. [Accessed Apr. 5, 2024].
 
