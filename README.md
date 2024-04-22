@@ -13,8 +13,7 @@ For this project, Python through a Jupyter notebook was used, which was all code
 
 ### /DATA
 
-+ face_images
-    + Folder containing 10,137 images.
++ how-to-obtain-data.md
 + data_appendix.pdf
 
 ### /OUTPUT
